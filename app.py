@@ -1,27 +1,33 @@
+# app.py
+
 import streamlit as st
-import pandas as pd
+from engine import SHLRecommendationEngine
 
-df = pd.read_csv("shl_data.csv")
+st.set_page_config(page_title="SHL Assessment Recommendation Engine", layout="wide")
+st.title("SHL Assessment Recommendation Engine")
 
-st.title("📊 SHL Assessment Recommendation Engine")
+@st.cache_resource
+def load_engine():
+    return SHLRecommendationEngine()
 
-remote = st.checkbox("✅ Remote Testing Required", value=True)
-adaptive = st.checkbox("✅ Adaptive/IRT Required", value=True)
-keywords = st.text_input("🔎 Enter Job Role Keywords (comma-separated)")
-test_types = st.text_input("🧠 Enter Desired Test Types (comma-separated, e.g. A, P, B)")
+engine = load_engine()
 
-if st.button("🎯 Recommend Assessments"):
-    result = df.copy()
-    if remote:
-        result = result[result["Remote Testing"] == "Yes"]
-    if adaptive:
-        result = result[result["Adaptive/IRT"] == "Yes"]
-    if keywords:
-        keyword_list = [k.strip() for k in keywords.split(",")]
-        result = result[result["Job Solution"].str.contains('|'.join(keyword_list), case=False)]
-    if test_types:
-        type_list = [t.strip() for t in test_types.split(",")]
-        result = result[result["Test Type"].apply(lambda x: any(t in x for t in type_list))]
-    
-    st.write("### 🔍 Recommended Job Solutions:")
-    st.dataframe(result)
+query = st.text_input("Describe your hiring/assessment need:", "manager solution personality test")
+
+col1, col2 = st.columns(2)
+with col1:
+    remote = st.selectbox("Remote Testing required?", ("Any", "Yes", "No"))
+with col2:
+    adaptive = st.selectbox("Adaptive/IRT required?", ("Any", "Yes", "No"))
+
+if st.button("Get Recommendations"):
+    remote_filter = None if remote == "Any" else remote
+    adaptive_filter = None if adaptive == "Any" else adaptive
+    results = engine.recommend(query, remote=remote_filter, adaptive=adaptive_filter)
+    st.write("### Recommended Assessments")
+    st.dataframe(results, use_container_width=True)
+else:
+    st.write("Enter your requirement and click **Get Recommendations**.")
+
+st.markdown("---")
+st.markdown("**Tip:** Try queries like `accounting`, `developer`, `manager`, `personality`, etc.")
