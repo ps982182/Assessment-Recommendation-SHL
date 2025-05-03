@@ -1,0 +1,521 @@
+Job Solution,Remote Testing,Adaptive/IRT,Test Type
+Account Manager Solution,Yes,Yes,CPAB
+Administrative Professional - Short Form,Yes,Yes,AKP
+Agency Manager Solution,Yes,Yes,ABPS
+Apprentice + 8.0 Job Focused Assessment,Yes,No,BP
+Apprentice 8.0 Job Focused Assessment,Yes,No,BP
+Bank Administrative Assistant - Short Form,Yes,No,ABKP
+Bank Collections Agent - Short Form,Yes,No,ABP
+Bank Operations Supervisor - Short Form,Yes,Yes,ABPS
+Bilingual Spanish Reservation Agent Solution,Yes,Yes,BPSA
+"Bookkeeping, Accounting, Auditing Clerk Short Form",Yes,Yes,PSKBA
+Branch Manager - Short Form,Yes,No,ABP
+Cashier Solution,Yes,Yes,BAP
+Claims/Operations Supervisor Solution,Yes,Yes,PSAB
+Contact Center Customer Service + 8.0,Yes,No,ABCPS
+Contact Center Customer Service 8.0,Yes,No,SBCP
+Contact Center Manager - Short Form,Yes,Yes,ABPS
+Contact Center Sales & Service + 8.0,Yes,No,PBCAS
+Contact Center Sales & Service 8.0,Yes,No,SBCP
+Contact Center Team Lead/Coach - Short Form,Yes,Yes,ABPS
+Contact Centre Agent Solution - UK,Yes,No,ABPS
+Customer Service - Short Form,Yes,Yes,ABP
+Customer Service - Short Form - UK,Yes,Yes,ABP
+Customer Service with Sales - Short Form,Yes,Yes,ABP
+Director - Short Form,Yes,Yes,ABP
+District/Regional Manager Solution,Yes,Yes,ABP
+Entry Level Cashier 7.1 (Americas),Yes,No,BPA
+Entry Level Cashier 7.1 (International),Yes,No,ABP
+Entry Level Customer Service 7.1 (Americas),Yes,No,CP
+Entry Level Customer Service 7.1 (International),Yes,No,CP
+Entry Level Customer Service 7.1 (South Africa),Yes,No,CP
+Entry level Sales 7.1 (Americas),Yes,No,BCP
+Entry level Sales 7.1 (International),Yes,No,PBC
+Entry Level Sales Sift Out 7.1,Yes,No,CPB
+Event Sales Manager Solution,Yes,Yes,SABP
+Executive - Short Form,Yes,Yes,ABP
+Financial Professional - Short Form,Yes,No,ABP
+Financial Services Representative Solution,Yes,No,ABP
+Front Desk Associate Solution,Yes,Yes,ABP
+Gaming Associate Solution,Yes,Yes,ABPS
+Gaming Manager Solution,Yes,Yes,SABKP
+General Entry Level - All Industries 7.0 Solution,Yes,No,B
+General Entry Level - All Industries 7.1 Solution,Yes,No,B
+General Entry Level - All Industries 7.1(Americas),Yes,No,B
+General Entry Level – Data Entry 7.0 Solution,Yes,No,BK
+Graduate + 8.0 Job Focused Assessment,Yes,No,ABP
+Graduate 7.1 Job Focused Assessment,Yes,No,BC
+Graduate 8.0 Job Focused Assessment,Yes,No,PB
+Guest Service Team 7.0 Solution,Yes,No,B
+Guest Services Associate Solution,Yes,Yes,ABPS
+Healthcare Aide 7.0 Solution,Yes,No,B
+Healthcare Call Center Agent Solution,Yes,Yes,ABPS
+Healthcare Service Associate Solution,Yes,Yes,ABP
+Healthcare Support Specialist Solution,Yes,Yes,ABP
+Home Health Aide Solution,Yes,Yes,ABP
+Hospitality Manager Solution,Yes,Yes,ABKP
+Host Solution,Yes,Yes,BP
+Industrial - Entry Level 7.0 Solution,Yes,No,B
+Industrial - Entry Level 7.1 (Americas),Yes,No,B
+Industrial - Entry Level 7.1 (International),Yes,No,B
+Industrial - Professional and Skilled 7.0 Solution,Yes,Yes,AB
+Industrial - Semi-skilled 7.1 (Americas),Yes,No,B
+Industrial - Semi-skilled 7.1 (International),Yes,No,B
+Industrial Professional and Skilled 7.1 (Americas),Yes,No,AB
+Industrial Professional and Skilled 7.1 Solution,Yes,No,AB
+Installation and Repair Technician Solution,Yes,Yes,ABPS
+Insurance Account Manager Solution,Yes,Yes,ABPS
+Insurance Administrative Assistant Solution,Yes,Yes,ABPS
+Insurance Agent Solution,Yes,Yes,ABP
+Insurance Director Solution,Yes,Yes,ABP
+Insurance Sales Manager Solution,Yes,Yes,ABPS
+Manager - Short Form,Yes,Yes,ABKPS
+Manager + 7.0 Solution,Yes,Yes,ABC
+Manager + 7.1 (Americas),Yes,Yes,BCP
+Manager + 7.1 (International),Yes,Yes,BCP
+Manager 7.0 Solution,Yes,No,BC
+Manager 7.1 (Americas),Yes,No,BCP
+Manager 7.1 (International),Yes,No,BCP
+Manager 8.0 JFA,Yes,No,BKP
+Manager 8.0+ JFA,Yes,No,BKP
+Manufacturing Production Team Member,Yes,No,AB
+Manufacturing Skilled Maintenance Worker,Yes,No,AB
+Network Engineer/Analyst Solution,Yes,Yes,PSKBA
+Nurse Leader Solution,Yes,Yes,SABP
+Nurse Solution,Yes,Yes,PAB
+Nursing Assistant Solution,Yes,No,ABP
+Personal Banker - Short Form,Yes,No,ABKPS
+Phone Banker - Short Form,Yes,No,ABP
+Prep/Line Cook Solution,Yes,Yes,ABP
+Professional + 7.0 Solution,Yes,Yes,ABC
+Professional + 7.1 (Americas),Yes,Yes,BCP
+Professional + 7.1 (International),Yes,Yes,BCP
+Professional 7.0 Solution,Yes,No,BC
+Professional 7.1 (International),Yes,No,CB
+Professional 8.0 JFA,Yes,No,BKP
+Professional/Individual Contributor - Short Form,Yes,Yes,ABPS
+Project Manager - Short Form,Yes,Yes,ABPS
+Proof Operator - Processing Specialist -Short Form,Yes,No,S
+Reservation Agent Solution,Yes,Yes,APSB
+Restaurant Manager Solution,Yes,Yes,ABPS
+Restaurant Supervisor Solution,Yes,Yes,ABP
+Retail Consultant Solution,Yes,Yes,ABP
+Retail Manager w/ Sales Solution,Yes,Yes,ABP
+Retail Sales Associate Solution,Yes,Yes,ABP
+Sales Director Solution,Yes,Yes,ABP
+Sales Engineer Solution,Yes,Yes,ABKPS
+Sales Manager Solution,Yes,Yes,ABP
+Sales Professional 7.0 Solution,Yes,No,CB
+Sales Professional 7.1 (Americas),Yes,No,BC
+Sales Professional Solution,Yes,Yes,ABP
+Sales Representative Solution,Yes,Yes,ABP
+Sales Supervisor Solution,Yes,Yes,ABP
+Sales Support Specialist Solution,Yes,Yes,ABP
+Senior Insurance Agent Solution,Yes,No,ABP
+Senior Sales Professional Solution,Yes,Yes,ABP
+Server Solution,Yes,Yes,BAP
+Service Associate Solution,Yes,Yes,ABP
+Service Supervisor Solution,Yes,Yes,ABP
+Stock Clerk Solution,Yes,No,ABP
+Store Manager 7.0 Solution,Yes,No,BC
+Store Manager 7.1 (Americas),Yes,No,BC
+Store Manager 7.1 (International),Yes,No,CB
+Store Manager Solution,Yes,Yes,ABP
+Supervisor - Short Form,Yes,Yes,S
+Supervisor 7.0 Solution,Yes,No,BC
+Supervisor 7.1 (Americas),Yes,No,BCP
+Supervisor 7.1 (International),Yes,No,PCB
+Support Associate Solution,Yes,Yes,ABP
+Support Supervisor Solution,Yes,Yes,APSB
+Technical Sales Associate Solution,Yes,No,ABP
+Technician/Technologist Solution,Yes,Yes,ABP
+Technology Professional 8.0 Job Focused Assessment,Yes,No,CP
+Telenurse Solution,Yes,Yes,ABP
+Teller 7.0,Yes,Yes,BKPS
+Teller with Sales - Short Form,Yes,No,ABKPS
+Transcriptionist Solution,Yes,Yes,ABKP
+Workplace Safety - Individual 7.0 Solution,Yes,No,B
+Workplace Safety - Individual 7.1 (Americas),Yes,No,B
+Workplace Safety - Team 7.0 Solution,Yes,No,B
+Workplace Safety - Team 7.1 (Americas),Yes,No,BCP
+Workplace Safety - Team 7.1 (International),Yes,No,BCP
+Workplace Safety Solution,Yes,Yes,BP
+Test Solution,Remote Testing,Adaptive/IRT,Test Type
+Global Skills Development Report,Yes,No,AEBCDP
+.NET Framework 4.5,Yes,Yes,K
+.NET MVC (New),Yes,No,K
+.NET MVVM (New),Yes,No,K
+.NET WCF (New),Yes,No,K
+.NET WPF (New),Yes,No,K
+.NET XAML (New),Yes,No,K
+Accounts Payable (New),Yes,No,K
+Accounts Payable Simulation (New),Yes,No,S
+Accounts Receivable (New),Yes,No,K
+Accounts Receivable Simulation (New),Yes,No,S
+ADO.NET (New),Yes,No,K
+Adobe Experience Manager (New),Yes,No,K
+Adobe Photoshop CC,Yes,Yes,K
+Aeronautical Engineering (New),Yes,No,K
+Aerospace Engineering (New),Yes,No,K
+Agile Software Development,Yes,No,K
+Agile Testing (New),Yes,No,K
+AI Skills,Yes,No,P
+Amazon Web Services (AWS) Development (New),Yes,No,K
+Android Development (New),Yes,No,K
+Angular 6 (New),Yes,No,K
+AngularJS (New),Yes,No,K
+Apache Hadoop (New),Yes,No,K
+Apache Hadoop Extensions (New),Yes,No,K
+Apache HBase (New),Yes,No,K
+Apache Hive (New),Yes,No,K
+Apache Kafka (New),Yes,No,K
+Apache Pig (New),Yes,No,K
+Apache Spark (New),Yes,No,K
+ASP .NET with C# (New),Yes,No,K
+ASP.NET 4.5,Yes,Yes,K
+Assessment and Development Center Exercises,Yes,No,E
+Automata - Fix (New),Yes,No,S
+Automata - SQL (New),Yes,No,S
+Automata (New),Yes,Yes,S
+Automata Data Science (New),Yes,No,S
+Automata Data Science Pro (New),Yes,No,S
+Automata Front End,Yes,No,S
+Automata Pro (New),Yes,No,S
+Automata Selenium,Yes,No,S
+Automation Anywhere RPA Development (New),Yes,No,K
+Automotive Engineering (New),Yes,No,K
+Basic Biology (New),Yes,No,K
+Basic Computer Literacy (Windows 10) (New),Yes,No,SK
+Basic Statistics (New),Yes,No,K
+Biochemistry (New),Yes,No,K
+Biotech Lab Techniques (New),Yes,No,K
+BizTalk (New),Yes,No,K
+Business Communication (adaptive),Yes,Yes,K
+Business Communications,Yes,No,K
+C Programming (New),Yes,No,K
+C# Programming (New),Yes,No,K
+C++ Programming (New),Yes,No,K
+Cardiology and Diabetes Management (New),Yes,No,K
+Ceramic Engineering (New),Yes,No,K
+Chemical Engineering (New),Yes,No,K
+Cisco AppDynamics (New),Yes,No,K
+Civil Engineering (New),Yes,No,K
+Cloud Computing (New),Yes,No,K
+COBOL Programming (New),Yes,No,K
+Computer Science (New),Yes,No,K
+Contact Center Call Simulation (New),Yes,No,S
+Conversational Multichat Simulation,Yes,No,S
+Core Java (Advanced Level) (New),Yes,No,K
+Core Java (Entry Level) (New),Yes,No,K
+Count Out The Money,Yes,Yes,KS
+CSS3 (New),Yes,No,K
+Culinary Skills (New),Yes,No,K
+Customer Service Phone Simulation,Yes,No,BS
+Customer Service Phone Solution,Yes,No,BPS
+Cyber Risk (New),Yes,No,K
+Data Entry (New),Yes,No,S
+Data Entry Alphanumeric Split Screen - US,Yes,No,K
+Data Entry Numeric Split Screen - US,Yes,No,K
+Data Entry Ten Key Split Screen,Yes,No,K
+Data Science (New),Yes,No,K
+Data Warehousing Concepts,Yes,No,K
+Dependability and Safety Instrument (DSI),Yes,No,P
+Dermatology (New),Yes,No,K
+Desktop Support (New),Yes,No,K
+Digital Advertising (New),Yes,No,K
+Digital Readiness Development Report - IC,Yes,No,P
+Digital Readiness Development Report - Manager,Yes,No,P
+Docker (New),Yes,No,K
+Dojo (New),Yes,No,K
+Drupal (New),Yes,No,K
+DSI v1.1 Interpretation Report,Yes,No,P
+Econometrics (New),Yes,No,K
+Economics (New),Yes,No,K
+Electrical and Electronics Engineering (New),Yes,No,K
+Electrical Engineering (New),Yes,No,K
+Electronics & Telecommunications Engineering (New),Yes,No,K
+Electronics and Embedded Systems Engineering (New),Yes,No,K
+Electronics and Semiconductor Engineering (New),Yes,No,K
+English Comprehension (New),Yes,No,K
+Enterprise Java Beans (New),Yes,No,K
+Enterprise Leadership Report 1.0,Yes,No,P
+Enterprise Leadership Report 2.0,Yes,No,P
+Entry Level Cashier Solution,Yes,No,CP
+Entry Level Customer Serv-Retail & Contact Center,Yes,No,PC
+Entry Level Customer Service (General) Solution,Yes,No,CP
+Entry Level Hotel Front Desk Solution,Yes,No,CP
+Entry Level Sales Solution,Yes,No,CP
+Entry Level Technical Support Solution,Yes,No,PC
+ETL Testing (New),Yes,No,K
+Executive Scenarios,Yes,No,B
+Executive Scenarios Narrative Report,Yes,No,B
+Executive Scenarios Profile Report,Yes,No,B
+ExpressJS (New),Yes,No,K
+Filing - Names (R1),Yes,No,K
+Filing - Numbers,Yes,No,K
+Financial Accounting (New),Yes,No,K
+Financial and Banking Services (New),Yes,No,K
+Fire Engineering (New),Yes,No,K
+Following Instructions v1 - UK (R1),Yes,No,K
+Following Instructions v1 - US (R2),Yes,No,K
+Food and Beverage Services (New),Yes,No,K
+Food Science (New),Yes,No,K
+Front Office Management (New),Yes,No,K
+,,,
+Fundamentals of Chemistry (New),Yes,No,K
+Fundamentals of Physics (New),Yes,No,K
+General Diseases (New),Yes,No,K
+Geoinformatics Engineering (New),Yes,No,K
+Geoscience Engineering (New),Yes,No,K
+GIT (New),Yes,No,K
+Global Skills Assessment,Yes,No,CK
+Graduate Scenarios,Yes,No,B
+Graduate Scenarios Narrative Report,Yes,No,B
+Graduate Scenarios Profile Report,Yes,No,B
+Hibernate (New),Yes,No,K
+HIPAA (Security),Yes,Yes,K
+HiPo Assessment Report 1.0,Yes,No,CP
+HiPo Assessment Report 2.0,Yes,No,CP
+HiPo Unlocking Potential Report 2.0,Yes,No,C
+Housekeeping (New),Yes,No,K
+HTML/CSS (New),Yes,No,K
+HTML5 (New),Yes,No,K
+Human Resources (New),Yes,No,K
+IBM DataStage (New),Yes,No,K
+IBM Sterling Order Management System (New),Yes,No,K
+Industrial Engineering (New),Yes,No,K
+Informatica (Architecture) (New),Yes,No,K
+Informatica (Developer) (New),Yes,No,K
+Instrumentation Engineering (New),Yes,No,K
+Interpersonal Communications,Yes,Yes,K
+Interviewing and Hiring Concepts (U.S.),Yes,Yes,K
+iOS Development (New),Yes,No,K
+ITIL (IT Infrastructure Library) (New),Yes,Yes,K
+Java 2 Platform Enterprise Edition 1.4 Fundamental,Yes,No,K
+Java 8 (New),Yes,No,K
+Java Design Patterns (New),Yes,No,K
+Java Frameworks (New),Yes,Yes,K
+Java Platform Enterprise Edition 7 (Java EE 7),Yes,No,K
+Java Web Services (New),Yes,No,K
+JavaScript (New),Yes,No,K
+Jenkins (New),Yes,No,K
+Job Control Language (New),Yes,No,K
+jQuery (New),Yes,No,K
+Kubernetes (New),Yes,No,K
+Linux Administration (New),Yes,No,K
+Linux Operating System,Yes,No,K
+Linux Programming (General),Yes,Yes,K
+Load Runner (New),Yes,No,K
+Management Scenarios,Yes,No,B
+Managerial Scenarios Candidate Report,Yes,No,B
+Managerial Scenarios Narrative Report,Yes,No,B
+Managerial Scenarios Profile Report,Yes,No,B
+Manual Testing (New),Yes,No,K
+Manufac. & Indust. - Mechanical & Vigilance 8.0,Yes,No,AP
+Manufac. & Indust. - Safety & Dependability 8.0,Yes,No,P
+Manufacturing & Industrial - Essential Focus 8.0,Yes,No,P
+Manufacturing & Industrial - Mechanical Focus 8.0,Yes,No,AP
+Manufacturing & Industrial - Vigilance Focus 8.0,Yes,No,AP
+Marketing (New),Yes,No,K
+Maven (New),Yes,No,K
+Mechanical Engineering (New),Yes,No,K
+Mechatronics Engineering (New),Yes,No,K
+Medical Terminology (New),Yes,No,K
+Metallurgical Engineering (New),Yes,No,K
+MFS 360 Enterprise Leadership Report,Yes,No,D
+MFS 360 UCF Group Report,Yes,No,D
+MFS 360 UCF Performance Potential Dev Tips Report,Yes,No,D
+MFS 360 UCF Standard Report,Yes,No,D
+Micro Focus Unified Functional Testing (New),Yes,No,K
+Microservices (New),Yes,No,K
+Microsoft Dynamics Development (New),Yes,No,K
+Microsoft Excel 365 - Essentials (New),Yes,No,KS
+Microsoft Excel 365 (New),Yes,No,KS
+Microsoft Outlook 2013 (adaptive),Yes,Yes,K
+Microsoft PowerPoint 365 - Essentials (New),Yes,No,KS
+Microsoft SQL Server 2014 Programming,Yes,Yes,K
+Microsoft Windows Server 2012 Administration,Yes,Yes,K
+Microsoft Word 365 - Essentials (New),Yes,No,KS
+Microsoft Word 365 (New),Yes,No,SK
+Mineral Engineering (New),Yes,No,K
+Mining Engineering (New),Yes,No,K
+Mobility (New),Yes,No,K
+Molecular Biology (New),Yes,No,K
+MongoDB (New),Yes,No,K
+Motivation Questionnaire MQM5,Yes,No,P
+MQ Candidate Motivation Report,Yes,No,P
+MQ Employee Motivation Report,Yes,No,P
+MQ Motivation Report Pack,Yes,No,P
+MQ Profile,Yes,No,P
+MS Access (New),Yes,No,K
+MS Excel (New),Yes,No,K
+MS Office Basic Computer Literacy (New),Yes,No,K
+MS Office Basic Computer Literacy (Sim) (New),Yes,No,S
+MS PowerPoint (New),Yes,No,K
+MS Word (New),Yes,No,K
+MuleSoft Development (New),Yes,No,K
+Multitasking Ability,Yes,No,AKS
+Networking and Implementation (New),Yes,No,K
+Node.js (New),Yes,No,K
+Nursing (New),Yes,No,K
+Occupational Personality Questionnaire OPQ32r,Yes,No,P
+Operations Management (New),Yes,No,K
+OPQ Candidate Plus Report,Yes,No,P
+OPQ Candidate Report 2.0,Yes,No,P
+OPQ Emotional Intelligence Report,Yes,No,P
+OPQ Leadership Report,Yes,No,P
+OPQ Manager Plus Report,Yes,No,P
+OPQ Manager Plus Report 2.0,Yes,No,P
+OPQ Maximising your Learning Report,Yes,No,P
+OPQ MQ Sales Report,Yes,No,P
+OPQ Premium Plus Report,Yes,No,P
+OPQ Premium Plus Report 2.0,Yes,No,P
+OPQ Profile Report,Yes,No,P
+OPQ Team Impact Group Development Report,Yes,No,P
+OPQ Team Impact Individual Development Report,Yes,No,P
+OPQ Team Impact Selection Report,Yes,No,P
+OPQ Team Types & Leadership Styles Profile,Yes,No,P
+OPQ Team Types and Leadership Styles Report,Yes,No,P
+OPQ UCF Development Action Planner Report 1.0,Yes,No,P
+OPQ UCF Development Action Planner Report 2.0,Yes,No,P
+OPQ Universal Competency Report 1.0,Yes,No,P
+OPQ Universal Competency Report 2.0,Yes,No,P
+OPQ User and Managers Report,Yes,No,P
+OPQ User Report,Yes,No,PS
+Oracle DBA (Advanced Level) (New),Yes,No,K
+Oracle DBA (Entry Level) (New),Yes,No,K
+Oracle PL/SQL (New),Yes,No,K
+Oracle WebLogic Server (New),Yes,No,K
+Organic Chemistry (New),Yes,No,K
+Paint Technology (New),Yes,No,K
+Pediatrics (New),Yes,No,K
+Pega Development (New),Yes,No,K
+Perl (New),Yes,No,K
+Petrochemical Engineering (New),Yes,No,K
+Petroleum Engineering (New),Yes,No,K
+Pharmaceutical Analysis (New),Yes,No,K
+Pharmaceutical Chemistry (New),Yes,No,K
+Pharmaceutical Science (New),Yes,No,K
+Pharmaceutics (New),Yes,No,K
+Pharmacology (New),Yes,No,K
+PHP (New),Yes,No,K
+PJM Development Report,Yes,No,CAP
+PJM Selection Report,Yes,No,ACP
+Polymer Engineering (New),Yes,No,K
+Power Electronics and Drives (New),Yes,No,K
+Power System Engineering (New),Yes,No,K
+Prism (New),Yes,No,K
+Production and Industrial Engineering (New),Yes,No,K
+Production Engineering (New),Yes,No,K
+Programming Concepts,Yes,Yes,K
+Project Management (2013),Yes,Yes,K
+Proofreading v1,Yes,No,K
+Python (New),Yes,No,K
+R Programming (New),Yes,No,K
+ReactJS (New),Yes,No,K
+Reading Comprehension - English v1,Yes,Yes,A
+Reading Comprehension - Spanish v1,Yes,Yes,A
+Reading Comprehension v2,Yes,Yes,A
+RemoteWorkQ,Yes,No,C
+RemoteWorkQ Manager Report,Yes,No,C
+RemoteWorkQ Participant Report,Yes,No,C
+RESTful Web Services (New),Yes,No,K
+Retail Sales and Service Simulation,Yes,No,BKSA
+Reviewing Forms - US (R1),Yes,No,K
+Ruby (New),Yes,No,K
+Ruby on Rails (New),Yes,No,K
+Sales & Service Phone Simulation,Yes,No,SB
+Sales & Service Phone Solution,Yes,No,BPS
+Sales Interview Guide,Yes,No,PP
+Sales Profiler Cards,Yes,No,P
+Sales Transformation 1.0 - Individual Contributor,Yes,No,P
+Sales Transformation 2.0 - Individual Contributor,Yes,No,P
+Sales Transformation Report 1.0 - Sales Manager,Yes,No,P
+Sales Transformation Report 2.0 - Sales Manager,Yes,No,P
+Salesforce Development (New),Yes,No,K
+SAP ABAP (Advanced Level) (New),Yes,No,K
+SAP ABAP (Intermediate Level) (New),Yes,No,K
+SAP Basis (New),Yes,No,K
+SAP Business Objects WebI (New),Yes,No,K
+SAP BW (Business Warehouse) (New),Yes,No,K
+SAP HCM (Human Capital Management) (New),Yes,No,K
+SAP Hybris (New),Yes,No,K
+SAP Materials Management (New),Yes,No,K
+SAP SD (Sales and Distribution) (New),Yes,No,K
+Search Engine Optimization (New),Yes,No,K
+Selenium (New),Yes,No,K
+Shell Scripting (New),Yes,No,K
+SHL Verify Interactive - Inductive Reasoning,Yes,Yes,AS
+SHL Verify Interactive – Deductive Reasoning,Yes,Yes,AS
+SHL Verify Interactive – Numerical Reasoning,Yes,Yes,AS
+SHL Verify Interactive G+,Yes,Yes,A
+SHL Verify Interactive Numerical Calculation,Yes,Yes,A
+Siebel Development (New),Yes,No,K
+Smart Interview Live,Yes,No,P
+Smart Interview Live Coding,Yes,No,K
+Smart Interview On Demand,Yes,No,P
+Social Media (New),Yes,No,K
+Software Business Analysis,Yes,Yes,K
+SonarQube (New),Yes,No,K
+Spelling (U.S.) (New),Yes,No,K
+Split Screen Typing Test - Form 1,Yes,No,AK
+Spring (New),Yes,No,K
+SQL (New),Yes,No,K
+SQL Server (New),Yes,No,K
+SQL Server Analysis Services (SSAS) (New),Yes,No,K
+SQL Server Integration Services (SSIS) (New),Yes,No,K
+SQL Server Reporting Services (SSRS) (New),Yes,No,K
+Statistical Analysis System (New),Yes,No,K
+Struts (New),Yes,No,K
+SVAR - Spoken English (AUS),Yes,No,S
+SVAR - Spoken English (Indian Accent) (New),Yes,No,S
+SVAR - Spoken English (U.K.),Yes,No,S
+SVAR - Spoken English (US) (New),Yes,No,S
+SVAR - Spoken French (Canadian) (New),Yes,No,S
+SVAR - Spoken French (European) (New),Yes,No,S
+SVAR - Spoken Spanish (Castilian) (New),Yes,No,S
+SVAR - Spoken Spanish (North American) (New),Yes,No,S
+Swing (New),Yes,No,K
+Tableau (New),Yes,No,K
+Telecommunications Engineering (New),Yes,No,K
+Teradata Development (New),Yes,No,K
+Time Management (U.S.),Yes,Yes,K
+Training Development,Yes,Yes,K
+Typing (New),Yes,No,S
+UiPath RPA Development (New),Yes,No,K
+Universal Competency Framework Interview Guide,Yes,No,CP
+Universal Competency Framework Job profiling guide,Yes,No,CP
+Universal Competency Framework Profiler Cards (44),Yes,No,CP
+UNIX (New),Yes,No,K
+VB.NET (New),Yes,No,K
+Verify - Deductive Reasoning,Yes,Yes,A
+Verify - Following Instructions,Yes,No,A
+Verify - G+,Yes,Yes,A
+Verify - General Ability Screen,Yes,Yes,A
+Verify - Inductive Reasoning (2014),Yes,Yes,A
+Verify - Numerical Ability,Yes,Yes,A
+Verify - Technical Checking - Next Generation,Yes,No,A
+Verify - Verbal Ability - Next Generation,Yes,Yes,A
+Verify - Working with Information,Yes,No,A
+Verify G+ - Ability Test Report,Yes,No,A
+Verify G+ - Candidate Report,Yes,No,A
+Verify Interactive Ability Report,Yes,No,A
+Verify Interactive G+ Candidate Report,Yes,No,A
+Verify Interactive G+ Report,Yes,No,A
+Verify Interactive Process Monitoring,Yes,No,A
+Virtual Assessment and Development Centers,Yes,No,P
+Visual Basic for Applications (New),Yes,No,K
+Visual Comparison - UK,Yes,No,K
+Visual Comparison - US,Yes,No,K
+VLSI and Embedded Systems (New),Yes,No,K
+What Is The Value - US,Yes,Yes,K
+Workplace Administration Skills (New),Yes,No,K
+Workplace Health and Safety (New),Yes,No,K
+WriteX - Email Writing (Customer Service) (New),Yes,No,S
+WriteX - Email Writing (Managerial) (New),Yes,No,S
+WriteX - Email Writing (Sales) (New),Yes,No,BS
+Written English v1,Yes,Yes,K
+Written Spanish,Yes,Yes,K
+Zabbix (New),Yes,No,K
+360 Digital Report,Yes,No,D
+360° Multi-Rater Feedback System (MFS),Yes,No,DP
